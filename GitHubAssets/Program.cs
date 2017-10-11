@@ -10,10 +10,12 @@ namespace GitHubAssets
     {
         static void Main(string[] args)
         {
-            //Repo for new project with Git will not exist until your first commit to the MASTER in GitHub
             //Create REPO in GitHub
             //Copy Hyperlink https://github.com/GitHubTuna/GitHubAssets.git
-            //Paste in where it says "Push to Remote Repository"
+            //Create VS project
+            //Commit change to this project.  
+            //Enter URL from created GitHub repo when prompted
+            //Paste in where Visual Studio has "Push to Remote Repository"
 
             Console.WriteLine("This is just an empty container with links and tips on using Git.");
 
