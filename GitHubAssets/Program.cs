@@ -12,6 +12,9 @@ namespace GitHubAssets
         {
             Console.WriteLine("This is just an empty container with links and tips on using Git.");
 
+            //VAIO is only PC with this project on it currently
+            //This change is pending and not committed to the local REPO
+
             //Why Version Control??
             //https://stackoverflow.com/questions/1408450/why-should-i-use-version-control
 
@@ -21,6 +24,9 @@ namespace GitHubAssets
             //Commit change to this project.  
             //Enter URL from created GitHub repo when prompted
             //Paste in where Visual Studio has "Push to Remote Repository"
+
+            //Help with deleting a REPO
+            //https://help.github.com/articles/deleting-a-repository/
 
             //GitHub Desktop Application DOWNLOAD
             //https://desktop.github.com/
@@ -73,6 +79,12 @@ namespace GitHubAssets
 
             //Create software tests
             //https://hackernoon.com/common-excuses-why-developers-dont-test-their-software-908a465e122c
+
+            //Code Samples
+            //https://www.codeproject.com/
+
+            //Step by Step help with coding
+            //https://app.pluralsight.com
 
             //****************************************************************************
             //END HELPERS NOT RELATED TO GIT
