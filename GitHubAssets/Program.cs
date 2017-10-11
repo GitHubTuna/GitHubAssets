@@ -10,6 +10,7 @@ namespace GitHubAssets
     {
         static void Main(string[] args)
         {
+            //Repo for new project with Git will not exist until your first commit to the MASTER in GitHub
         }
     }
 }
