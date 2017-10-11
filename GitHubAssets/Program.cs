@@ -75,7 +75,7 @@ namespace GitHubAssets
             //https://hackernoon.com/common-excuses-why-developers-dont-test-their-software-908a465e122c
 
             //****************************************************************************
-            //END HELPERS
+            //END HELPERS NOT RELATED TO GIT
             //****************************************************************************
 
         }
