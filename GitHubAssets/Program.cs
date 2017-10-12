@@ -11,10 +11,10 @@ namespace GitHubAssets
         static void Main(string[] args)
         {
             Console.WriteLine("This is just an empty container with links and tips on using Git.");
-
-            //VAIO is only PC with this project on it currently
-            //This change is pending and not committed to the local REPO
-
+            
+            //GitHub Guide:
+            //https://guides.github.com/activities/hello-world/
+            
             //Why Version Control??
             //https://stackoverflow.com/questions/1408450/why-should-i-use-version-control
 
