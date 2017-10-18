@@ -25,6 +25,9 @@ namespace GitHubAssets
             //Enter URL from created GitHub repo when prompted
             //Paste in where Visual Studio has "Push to Remote Repository"
 
+            //Visualize Git commands:
+            //http://onlywei.github.io/explain-git-with-d3/
+
             //Help with deleting a REPO
             //https://help.github.com/articles/deleting-a-repository/
 
