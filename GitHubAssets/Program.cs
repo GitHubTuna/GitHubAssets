@@ -29,7 +29,7 @@ namespace GitHubAssets
             //http://onlywei.github.io/explain-git-with-d3/
 
             //Help with deleting a REPO
-            //https://help.github.com/articles/deleting-a-repository/
+            //https://help.github.com/articles/deleting-a-repository
 
             //GitHub Desktop Application DOWNLOAD
             //https://desktop.github.com/
@@ -51,6 +51,9 @@ namespace GitHubAssets
             //Rebasing a Branch
             //https://git-scm.com/docs/git-rebase
             //https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+
+            //Using the stash command in GitBash / Command line
+            //https://git-scm.com/book/en/v1/Git-Tools-Stashing
 
             //****************************************************************************
             //HELPERS BELOW NOT RELATED TO GIT
