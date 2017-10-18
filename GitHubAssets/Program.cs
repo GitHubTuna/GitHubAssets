@@ -55,6 +55,9 @@ namespace GitHubAssets
             //Using the stash command in GitBash / Command line
             //https://git-scm.com/book/en/v1/Git-Tools-Stashing
 
+            //Git explained fun way:
+            //http://rogerdudler.github.io/git-guide/
+
             //****************************************************************************
             //HELPERS BELOW NOT RELATED TO GIT
             //****************************************************************************
@@ -91,6 +94,9 @@ namespace GitHubAssets
 
             //Step by Step help with coding
             //https://app.pluralsight.com
+
+            //My blog:
+            //https://FortunaWPF.BlogSpot.com
 
             //****************************************************************************
             //END HELPERS NOT RELATED TO GIT
