@@ -15,6 +15,10 @@ namespace GitHubAssets
             //GitHub Guide:
             //https://guides.github.com/activities/hello-world/
             
+            //Git-it repo
+            //exercise based training to learn Git and CitHub
+            //https://github.com/jlord/git-it-electron
+            
             //Why Version Control??
             //https://stackoverflow.com/questions/1408450/why-should-i-use-version-control
 
